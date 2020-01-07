@@ -1,0 +1,11 @@
+E:\StackOverflowProject\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\StackOverflowProject.ViewModels.dll
+E:\StackOverflowProject\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\StackOverflowProject.ViewModels.pdb
+E:\StackOverflowProject\StackOverflowProject\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.csprojAssemblyReference.cache
+E:\StackOverflowProject\StackOverflowProject\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.dll
+E:\StackOverflowProject\StackOverflowProject\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.pdb
+E:\StackOverflowProject\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\StackOverflowProject.ViewModels.dll.config
+E:\StackOverflowProject\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\EntityFramework.dll
+E:\StackOverflowProject\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\EntityFramework.SqlServer.dll
+E:\StackOverflowProject\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\EntityFramework.xml
+E:\StackOverflowProject\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\EntityFramework.SqlServer.xml
+E:\StackOverflowProject\StackOverflowProject\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.csproj.CopyComplete
